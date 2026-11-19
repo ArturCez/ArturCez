@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2900&pause=1100&color=C891A2&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Python+%E2%80%A2+APIs+%E2%80%A2+Software+Development;Interested+in+AI+%26+Machine+Learning;Building+ideas+into+software" alt="Python, APIs, Software Development, Artificial Intelligence" /></a>
 
 <p>
-  <a href="https://github.com/ArturCez?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore%20my%20work-753546?style=for-the-badge&logo=github&logoColor=white&labelColor=25252D" alt="Projetos" /></a>
+  <a href="https://github.com/ArturCez?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore%20my%20work-753546?style=for-the-badge&logo=github&logoColor=white&labelColor=25252D" alt="Explore my GitHub projects" /></a>
   <a href="https://github.com/ArturCez"><img src="https://img.shields.io/badge/GITHUB-ArturCez-753546?style=for-the-badge&logo=github&logoColor=white&labelColor=25252D" alt="GitHub" /></a>
 </p>
 
@@ -25,7 +25,7 @@ I enjoy transforming ideas into working applications, understanding how systems 
 
 <h3>Languages &amp; APIs</h3>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" alt="Python e FastAPI" height="58" />
+<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" alt="Python and FastAPI icons" height="58" />
 
 <br />
 
@@ -34,7 +34,7 @@ I enjoy transforming ideas into working applications, understanding how systems 
 
 <h3>Software &amp; Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Visual Studio Code, Git e GitHub" height="58" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Visual Studio Code, Git and GitHub icons" height="58" />
 
 </div>
 
@@ -50,7 +50,7 @@ A command-line application for managing income and expenses, listing transaction
 
 <div align="center">
 
-<a href="https://github.com/ArturCez/controle-financeiro-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturCez&repo=controle-financeiro-python&show_owner=false&bg_color=202029&title_color=E3B1BC&text_color=D7D3D6&icon_color=C47A90&border_color=663847" alt="Repositório Controle Financeiro em Python" /></a>
+<a href="https://github.com/ArturCez/controle-financeiro-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturCez&repo=controle-financeiro-python&show_owner=false&bg_color=202029&title_color=E3B1BC&text_color=D7D3D6&icon_color=C47A90&border_color=663847" alt="Personal Finance Tracker repository card" /></a>
 
 </div>
 
@@ -60,8 +60,10 @@ A command-line application for managing income and expenses, listing transaction
 
 <div align="center">
 
-<sub>Software • Algorithms • Artificial Intelligence</sub>
+<sub>Software &nbsp;•&nbsp; Algorithms &nbsp;•&nbsp; Artificial Intelligence</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:99445A,55:552937,100:14151B" alt="Rodapé em tons de vinho e grafite" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:99445A,55:552937,100:14151B" alt="Decorative footer wave" width="100%" />
+
+</div>
 
 </div>
