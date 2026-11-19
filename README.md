@@ -1,31 +1,71 @@
-<div align="center">  <img src="assets/banner.svg" alt="Artur Cezar — Ciência da Computação e Inteligência Artificial" width="100%" />
-  Estudante de Ciência da Computação na PUCRS · Porto Alegre, RS 🇧🇷
+<div align="center">
 
-  <a href="https://github.com/ArturCez"><img src="https://img.shields.io/badge/GitHub-ArturCez-262328?style=for-the-badge&logo=github&logoColor=F2E4D3" alt="GitHub ArturCez" /></a>
-<a href="https://github.com/ArturCez?tab=repositories"><img src="https://img.shields.io/badge/Meus%20projetos-8B3446?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos" /></a>
-</div>Sobre mim
-Sou o Artur Cezar, estudante de Ciência da Computação na PUCRS. Gosto de entender como a tecnologia funciona por trás das aplicações e de transformar o que aprendo em projetos reais.
+![Artur Cezar](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:19191D,50:552C37,100:9B4555&text=Artur%20Cezar&fontColor=F5EBDD&fontSize=60&fontAlignY=39&desc=COMPUTER%20SCIENCE%20%7C%20PYTHON%20%7C%20AI&descAlignY=61&descSize=17&animation=fadeIn)
 
-Tenho interesse especial em inteligência artificial, machine learning e desenvolvimento de algoritmos. Atualmente, estou fortalecendo minha base em Python e começando a explorar APIs e desenvolvimento de software.
-Tecnologias e ferramentas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="45" height="45" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="45" height="45" />
-</p>Praticando: Python, Git, GitHub, JSON, funções, estruturas de dados e tratamento de erros.
+<h2>Olá, eu sou o Artur! 👋</h2>
 
-Estudando a seguir: APIs REST, FastAPI, SQL, testes automatizados e fundamentos de IA.
-Projeto em destaque
-💳 Controle Financeiro em Python
-Aplicação de terminal para cadastrar receitas e despesas, listar movimentações e calcular o saldo, com armazenamento local em JSON.
+<p><strong>Estudante de Ciência da Computação na PUCRS</strong><br />
+📍 Porto Alegre, RS · 🇧🇷 Brasil</p>
 
-Python · JSON · CLI · Validação de dados
-O que quero construir
-- Uma API REST em Python para aprender desenvolvimento back-end.
-- Projetos de análise de dados e machine learning à medida que avançar nos estudos.
-- Uma base sólida de algoritmos, matemática e engenharia de software.
-<div align="center">  <sub>Aprendendo, criando e melhorando um projeto de cada vez.</sub>
+[![GitHub](https://img.shields.io/badge/GitHub-ArturCez-27242A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturCez)
+[![Projetos](https://img.shields.io/badge/Explorar-projetos-8D3D4F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturCez?tab=repositories)
+
+</div>
+
+---
+
+### ✦ Sobre mim
+
+Sou o **Artur Cezar**, estudante de **Ciência da Computação na PUCRS**. Gosto de entender o que acontece por trás dos programas e transformar conceitos em projetos que realmente funcionam.
+
+Tenho especial interesse em **inteligência artificial, machine learning e algoritmos**. Atualmente, estou construindo uma base sólida em Python e explorando o desenvolvimento de APIs.
+
+### ✦ Minha stack
+
+<div align="center">
+
+**Tecnologias que utilizo**
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Ícones de Python, Git, GitHub e VS Code" />
+
+<br />
+
+![Python](https://img.shields.io/badge/Python-Em%20pr%C3%A1tica-8D3D4F?style=flat-square&logo=python&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-Persist%C3%AAncia-363138?style=flat-square&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Versionamento-363138?style=flat-square&logo=git&logoColor=white)
+
+**Aprendendo a seguir**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-Pr%C3%B3ximo%20passo-2F615B?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Em%20breve-51464C?style=flat-square&logo=sqlite&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Objetivo-6D4050?style=flat-square)
+
+</div>
+
+### ✦ Projeto em destaque
+
+<a href="https://github.com/ArturCez/controle-financeiro-python"><img src="https://img.shields.io/badge/CONTROLE%20FINANCEIRO-PYTHON-8D3D4F?style=for-the-badge&logo=python&logoColor=white" alt="Controle Financeiro em Python" /></a>
+
+Um sistema de terminal que permite **cadastrar receitas e despesas, listar transações e calcular o saldo**, salvando os dados em JSON.
+
+**O que aprendi:** funções, listas e dicionários, validação de entradas, organização do código e persistência de dados.
+
+➡️ **[Ver o repositório do Controle Financeiro](https://github.com/ArturCez/controle-financeiro-python)**
+
+### ✦ Próximos passos
+
+- [x] Criar e publicar meu primeiro projeto em Python.
+- [ ] Desenvolver minha primeira API REST.
+- [ ] Aprender bancos de dados e testes automatizados.
+- [ ] Explorar projetos de análise de dados e inteligência artificial.
+
+---
+
+<div align="center">
+
+*Aprendendo, construindo e evoluindo — um projeto de cada vez.*
+
+![Rodapé](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:9B4555,100:19191D)
+
 </div>
 
