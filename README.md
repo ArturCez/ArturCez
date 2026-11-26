@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ARTUR-CEZAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Artificial%20Intelligence%20%7C%20Machine%20Learning&descAlignY=60&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ARTUR CEZAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Artificial%20Intelligence%20%7C%20Machine%20Learning&descAlignY=60&descSize=15" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=56B6C2&center=true&vCenter=true&width=550&lines=Computer+Science+%26+Data+Science+Student;Aspiring+AI+Engineer;Learning+Python%2C+SQL+%26+Machine+Learning;Building+projects+and+learning+every+day" />
