@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/arturvidaletticezar">
 <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=56B6C2"/>
 </a>
-<a href="mailto:SEU-EMAIL">
+<a href="mailto:arturcez2008@gmail.com">
 <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=56B6C2"/>
 </a>
 <a href="https://github.com/ArturCez">
@@ -95,13 +95,13 @@ Currently developing my skills in programming, data analysis, statistics and mac
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=56B6C2&icon_color=56B6C2"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArturCez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=56B6C2&icon_color=56B6C2"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=56B6C2"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=56B6C2"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=56B6C2&fire=56B6C2&currStreakLabel=56B6C2"/>
+<img src="https://streak-stats.demolab.com?user=ArturCez&theme=tokyonight&hide_border=true&background=0D1117&ring=56B6C2&fire=56B6C2&currStreakLabel=56B6C2"/>
 
 </div>
 
