@@ -1,69 +1,118 @@
+ <!-- Replace SEU-USUARIO, SEU-NOME, SEU-LINKEDIN and SEU-EMAIL -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:14151B,48:552937,100:99445A&text=Artur%20Cezar&fontAlignY=39&fontSize=67&fontColor=F5EAE2&desc=COMPUTER%20SCIENCE%20%20%E2%80%A2%20%20PUCRS&descAlignY=60&descSize=19&animation=fadeIn" alt="Artur Cezar — Computer Science · PUCRS" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=SEU-NOME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Artificial%20Intelligence%20%7C%20Machine%20Learning&descAlignY=60&descSize=15" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2900&pause=1100&color=C891A2&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Python+%E2%80%A2+APIs+%E2%80%A2+Software+Development;Interested+in+AI+%26+Machine+Learning;Building+ideas+into+software" alt="Python, APIs, Software Development, Artificial Intelligence" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=56B6C2&center=true&vCenter=true&width=550&lines=Computer+Science+%26+Data+Science+Student;Aspiring+AI+Engineer;Learning+Python%2C+SQL+%26+Machine+Learning;Building+projects+and+learning+every+day" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=56B6C2"/>
+</a>
+<a href="mailto:SEU-EMAIL">
+<img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=56B6C2"/>
+</a>
+<a href="https://github.com/SEU-USUARIO">
+<img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Data Science and Artificial Intelligence student interested in building intelligent systems and solving real-world problems through technology.
+
+Currently developing my skills in programming, data analysis, statistics and machine learning.
+
+- 🎓 Studying Data Science and Artificial Intelligence (CDIA).
+- 🤖 Aspiring AI Engineer / Machine Learning Engineer.
+- 🐍 Learning Python and its ecosystem for data science.
+- 📊 Exploring data analysis, statistics and machine learning.
+- 💻 Interested in software development, automation and intelligent systems.
+- 🌱 Focused on continuous learning and practical projects.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages & Development**
 
 <p>
-  <a href="https://github.com/ArturCez?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore%20my%20work-753546?style=for-the-badge&logo=github&logoColor=white&labelColor=25252D" alt="Explore my GitHub projects" /></a>
-  <a href="https://github.com/ArturCez"><img src="https://img.shields.io/badge/GITHUB-ArturCez-753546?style=for-the-badge&logo=github&logoColor=white&labelColor=25252D" alt="GitHub" /></a>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,bash&theme=dark"/>
 </p>
 
-<p><strong>Computer Science student at PUCRS</strong> · Porto Alegre, Brazil 🇧🇷</p>
+**Data Science & Machine Learning**
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-## <img src="https://img.shields.io/badge/01-ABOUT%20ME-753546?style=flat-square&labelColor=25252D" alt="01 About me" />
+**Currently Exploring**
 
-I'm **Artur Cezar**, a Computer Science student at **PUCRS**, interested in software engineering, algorithms and artificial intelligence.
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
-I enjoy transforming ideas into working applications, understanding how systems behave and improving code through hands-on projects.
+---
 
-## <img src="https://img.shields.io/badge/02-TECH%20STACK-753546?style=flat-square&labelColor=25252D" alt="02 Tech stack" />
+## 🎯 Learning Roadmap — 2027
+
+- [ ] Python for Data Science
+- [ ] Data Analysis with Pandas and NumPy
+- [ ] Data Visualization with Matplotlib
+- [ ] SQL and Database Management
+- [ ] Statistics and Probability
+- [ ] Machine Learning with Scikit-learn
+- [ ] Deep Learning with PyTorch
+- [ ] Model Deployment and MLOps
+- [ ] Build and publish practical projects
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| 🚗 AutoPrice | Vehicle price research and analysis system | Python |
+| 🎮 Gaming Hub | Game management and data analytics dashboard | Python, Streamlit, Pandas, SQL |
+| 🔜 Coming Soon | Machine Learning project | Python, Scikit-learn |
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<h3>Languages &amp; APIs</h3>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=56B6C2&icon_color=56B6C2"/>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" alt="Python and FastAPI icons" height="58" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=56B6C2"/>
 
-<br />
+<br/>
 
-<img src="https://img.shields.io/badge/REST-APIs-753546?style=flat-square&logo=fastapi&logoColor=white&labelColor=25252D" alt="REST APIs" />
-<img src="https://img.shields.io/badge/JSON-Data-753546?style=flat-square&logo=json&logoColor=white&labelColor=25252D" alt="JSON" />
-
-<h3>Software &amp; Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Visual Studio Code, Git and GitHub icons" height="58" />
+<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=56B6C2&fire=56B6C2&currStreakLabel=56B6C2"/>
 
 </div>
-
-## <img src="https://img.shields.io/badge/03-FEATURED%20PROJECT-753546?style=flat-square&labelColor=25252D" alt="03 Featured project" />
-
-### [Personal Finance Tracker · Python](https://github.com/ArturCez/controle-financeiro-python)
-
-A command-line application for managing income and expenses, listing transactions and calculating account balances with persistent JSON storage.
-
-- Modular functions and reusable code
-- Input validation and exception handling
-- Local data persistence and documented usage
-
-<div align="center">
-
-<a href="https://github.com/ArturCez/controle-financeiro-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturCez&repo=controle-financeiro-python&show_owner=false&bg_color=202029&title_color=E3B1BC&text_color=D7D3D6&icon_color=C47A90&border_color=663847" alt="Personal Finance Tracker repository card" /></a>
-
-</div>
-
-**[Explore the source code and documentation →](https://github.com/ArturCez/controle-financeiro-python)**
 
 ---
 
 <div align="center">
 
-<sub>Software &nbsp;•&nbsp; Algorithms &nbsp;•&nbsp; Artificial Intelligence</sub>
+### "Great things are done by a series of small things brought together."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:99445A,55:552937,100:14151B" alt="Decorative footer wave" width="100%" />
+*Building knowledge, one project at a time.*
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
